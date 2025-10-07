@@ -22,5 +22,5 @@ The project leverages **LSTM-based models** and **deep learning architectures** 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/IonosphereAI.git
+git clone https://github.com/Sunitjana/IonosphereAI.git
 cd IonosphereAI
