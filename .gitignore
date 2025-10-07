@@ -1,0 +1,23 @@
+
+---
+
+# **4️⃣ .gitignore**
+
+```text
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore model files
+models/
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/

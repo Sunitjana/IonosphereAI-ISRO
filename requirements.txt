@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+# Deep Learning
+tensorflow
+keras
+
+# Geospatial / Mapping
+geopandas
+basemap
+cartopy
+
+# Deployment
+streamlit
+flask
+pyyaml
+
+# Others
+jupyter

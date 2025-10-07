@@ -1,0 +1,17 @@
+# Paths for datasets and models
+data:
+  raw_path: "data/raw/"
+  processed_path: "data/processed/merged_data.csv"
+
+model:
+  sequence_length: 24
+  batch_size: 64
+  epochs: 100
+  lstm_units: [128, 64]
+  dropout_rate: 0.2
+  optimizer: "adam"
+  loss: "mse"
+
+output:
+  model_path: "models/lstm_model.h5"
+  plots_path: "plots/"
